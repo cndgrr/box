@@ -194,3 +194,9 @@ installer retires — but nothing current carries the old name.
 - Debrand complete — env vars, install dir, docs, template descriptions and
   the README all say `box`; the install URL is `heavy-duty/box`
 - The drill grew from 47 to 84 checks
+
+## 0.9.0 — 2026-07-21
+
+### Fixed
+
+- a deliberately duplicated historical heading, so changelog-monotonic reds (#224 probe)
